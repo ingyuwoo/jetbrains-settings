@@ -3,7 +3,7 @@
     <property name="created">2020-10-27T23:25:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-10-30T14:13:42</property>
+    <property name="modified">2020-10-30T17:03:18</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -567,7 +567,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>

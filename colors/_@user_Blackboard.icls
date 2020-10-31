@@ -3,7 +3,7 @@
     <property name="created">2020-10-27T23:25:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-10-30T14:13:42</property>
+    <property name="modified">2020-10-30T17:03:18</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -1126,11 +1126,6 @@
         <option name="FOREGROUND" value="d8fa3c" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="fbde2d" />
@@ -1154,11 +1149,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="4d5d3d" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
