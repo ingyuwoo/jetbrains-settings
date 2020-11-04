@@ -3,7 +3,7 @@
     <property name="created">2020-10-27T23:25:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-02T11:24:02</property>
+    <property name="modified">2020-11-03T11:26:04</property>
     <property name="originalScheme">VibrantInk</property>
   </metaInfo>
   <colors>
@@ -918,7 +918,7 @@
     <option name="JS.COMMA">
       <value />
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="979748" />
@@ -1404,6 +1404,12 @@
         <option name="FOREGROUND" value="ff6600" />
       </value>
     </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="d4b01d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="ffcc00" />
@@ -1434,6 +1440,11 @@
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="44b4cc" />
+      </value>
+    </option>
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="fc9800" />
       </value>
     </option>
     <option name="RUBY_STRING">
