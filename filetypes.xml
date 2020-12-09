@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="run_res" type="AUTO_DETECTED" />
       <mapping pattern="run_res3" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
