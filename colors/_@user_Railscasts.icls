@@ -3,7 +3,7 @@
     <property name="created">2020-10-27T23:25:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-12-16T14:51:57</property>
+    <property name="modified">2020-12-21T10:01:50</property>
     <property name="originalScheme">Railscasts</property>
   </metaInfo>
   <colors>
@@ -832,8 +832,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -1216,17 +1214,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="RHTML_COMMENT_ID">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
-      <value>
-        <option name="BACKGROUND" value="232323" />
-      </value>
-    </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -1262,11 +1249,6 @@
     <option name="RUBY_EXPR_IN_STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="RUBY_GVAR">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
@@ -1308,11 +1290,6 @@
     <option name="RUBY_LINE_CONTINUATION">
       <value>
         <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="RUBY_METHOD_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="RUBY_NUMBER">
@@ -1426,12 +1403,6 @@
     <option name="SLIM_CLASS">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="SLIM_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SLIM_DOCTYPE_KWD">
