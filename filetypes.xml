@@ -4,6 +4,8 @@
       <mapping pattern="run_res" type="AUTO_DETECTED" />
       <mapping pattern="run_all_res" type="AUTO_DETECTED" />
       <mapping pattern="run_res3" type="AUTO_DETECTED" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env_temp" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
