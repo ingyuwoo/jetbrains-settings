@@ -7321,11 +7321,9 @@
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/lib" />
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/exe" />
@@ -10387,13 +10385,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/samples" />
@@ -15671,6 +15667,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
+      </excluded>
+    </library>
+    <library name="rubygems-update (v3.2.11, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/hide_lib_for_update" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler" />
       </excluded>
     </library>
     <library name="rubyntlm (v0.6.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
