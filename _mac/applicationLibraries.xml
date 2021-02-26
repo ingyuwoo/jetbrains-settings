@@ -7163,45 +7163,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/ui" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/cli" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/plugin" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/source" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/vendor" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/fetcher" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/resolver" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/settings" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/installer" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/ssl_certs" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/templates" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/compact_index_client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/ui" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/cli" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/plugin" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/source" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/vendor" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/fetcher" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/resolver" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/settings" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/installer" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/ssl_certs" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/templates" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/compact_index_client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/man" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/ui" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/cli" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/plugin" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/source" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/fetcher" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/resolver" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/settings" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/installer" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/ssl_certs" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/templates" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0/bundler/compact_index_client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.17.3/man" />
       </excluded>
     </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
@@ -7320,13 +7293,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-2.2.11/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler/exe" />
       </excluded>
     </library>
     <library name="bundler-unload (v1.0.2, Remote: ruby-2.4.1-p111) [gem]" type="rubylib">
@@ -7991,41 +7966,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/daemons-1.3.1/examples" />
       </excluded>
     </library>
-    <library name="debase (v0.2.4.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.4.1/test" />
-      </excluded>
-    </library>
-    <library name="debase (v2.3.2, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-2.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-2.3.2/exto" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-2.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-2.3.2/exto" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-2.3.2/exto" />
-      </excluded>
-    </library>
     <library name="debase (v2.3.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8041,17 +7981,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-2.3.2/exto" />
       </excluded>
-    </library>
-    <library name="debase-ruby_core_source (v0.10.12, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-ruby_core_source-0.10.12/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-ruby_core_source-0.10.12/lib" />
-      </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.12, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -9388,111 +9317,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.1.0/test" />
       </excluded>
     </library>
-    <library name="elasticsearch (v6.2.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.2.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.2.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.2.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch (v6.3.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.3.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.3.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.3.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch (v6.8.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.8.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.8.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-6.8.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch (v7.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.1.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch (v7.8.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch (v7.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-7.8.1/test" />
-      </excluded>
-    </library>
     <library name="elasticsearch-api (v2.0.1@cf369b, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9548,138 +9372,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.1.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.1.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v6.2.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.2.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v6.3.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.3.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v6.8.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-6.8.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v7.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.1.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v7.8.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v7.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-api-7.8.1/utils" />
       </excluded>
     </library>
     <library name="elasticsearch-dsl (v0.1.4@cf369b, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9792,120 +9484,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.1.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v6.2.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.2.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v6.3.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.3.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v6.8.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-6.8.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v7.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.1.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v7.8.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v7.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/elasticsearch-transport-7.8.1/test" />
       </excluded>
     </library>
     <library name="elasticsearch-watcher (v0.0.1@cf369b, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -10202,55 +9780,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/faraday-0.17.3/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/faraday-0.17.3/test" />
       </excluded>
-    </library>
-    <library name="faraday (v1.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.1.0/examples" />
-      </excluded>
-    </library>
-    <library name="faraday (v1.3.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-1.3.0/examples" />
-      </excluded>
-    </library>
-    <library name="faraday-net_http (v1.0.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-net_http-1.0.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-net_http-1.0.1/lib" />
-      </SOURCES>
     </library>
     <library name="faraday_middleware (v0.13.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -11669,37 +11198,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
-    <library name="json (v2.3.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/references" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/references" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.3.1/references" />
-      </excluded>
-    </library>
     <library name="json (v2.5.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11943,34 +11441,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.0/scripts" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.0/.circleci" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.0/.ldrelease" />
-      </excluded>
-    </library>
-    <library name="launchdarkly-server-sdk (v5.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/scripts" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.circleci" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.ldrelease" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/scripts" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.circleci" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.ldrelease" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/scripts" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.circleci" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/launchdarkly-server-sdk-5.8.1/.ldrelease" />
       </excluded>
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -12896,22 +12366,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/multipart-post-2.0.0/test" />
-      </excluded>
-    </library>
-    <library name="multipart-post (v2.1.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/multipart-post-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/multipart-post-2.1.1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/multipart-post-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/multipart-post-2.1.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/multipart-post-2.1.1/spec" />
       </excluded>
     </library>
     <library name="multipart-post (v2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -14621,25 +14075,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/rake_helpers-610a9d0b7530/.circleci" />
       </excluded>
     </library>
-    <library name="rake_helpers (v0.2.7@d71745, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/.circleci" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/.circleci" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-d71745cc4ae8/.circleci" />
-      </excluded>
-    </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15384,17 +14819,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec_junit_formatter-0.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec_junit_formatter (v0.4.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec_junit_formatter-0.4.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec_junit_formatter-0.4.1/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec_junit_formatter (v0.4.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15451,41 +14875,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.63.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.63.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.63.1/config" />
-      </excluded>
-    </library>
-    <library name="ruby-debug-ide (v0.7.2, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-0.7.2/ext" />
-      </excluded>
-    </library>
-    <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-2.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-2.3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-2.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-2.3.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-debug-ide-2.3.1/bin" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -15554,28 +14943,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-progressbar-1.11.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby2_keywords (v0.0.2, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby2_keywords-0.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby2_keywords-0.0.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby2_keywords (v0.0.4, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby2_keywords-0.0.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby2_keywords-0.0.4/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -15667,31 +15034,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
-      </excluded>
-    </library>
-    <library name="rubygems-update (v3.2.11, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/hide_lib_for_update" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/hide_lib_for_update" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubygems-update-3.2.11/bundler" />
       </excluded>
     </library>
     <library name="rubyntlm (v0.6.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -16379,28 +15721,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-64c94e459312/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-64c94e459312/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-64c94e459312/.circleci" />
-      </excluded>
-    </library>
-    <library name="stream (v4.9.0@1787ff, RVM: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.circleci" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.circleci" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.circleci" />
       </excluded>
     </library>
     <library name="stream (v4.9.0@1787ff, RVM: ruby-2.5.1) [gem]" type="rubylib">
