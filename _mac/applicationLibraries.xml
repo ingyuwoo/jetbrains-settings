@@ -7690,6 +7690,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/charon-client-ruby-a855c972afea/spec" />
       </excluded>
     </library>
+    <library name="charon-client-ruby (v0.1.1@a855c9, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/charon-client-ruby-a855c972afea/spec" />
+      </excluded>
+    </library>
     <library name="charon-client-ruby (v0.1.1@a855c9, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9340,6 +9359,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elastic-index-ruby-b0d51d5de699/local-scripts" />
       </excluded>
     </library>
+    <library name="elastic-index (v0.8.1@11747e, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/local-scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/local-scripts" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elastic-index-ruby-11747e07527c/local-scripts" />
+      </excluded>
+    </library>
     <library name="elasticsearch (v2.0.1@cf369b, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9354,6 +9404,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch/test" />
+      </excluded>
+    </library>
+    <library name="elasticsearch (v2.0.2@d41039, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch/test" />
       </excluded>
     </library>
     <library name="elasticsearch (v2.0.2@d41039, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9405,6 +9471,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch-api/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch-api/utils" />
+      </excluded>
+    </library>
+    <library name="elasticsearch-api (v2.0.2@d41039, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/utils" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-api/utils" />
       </excluded>
     </library>
     <library name="elasticsearch-api (v2.0.2@d41039, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9461,6 +9546,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch-dsl/test" />
       </excluded>
     </library>
+    <library name="elasticsearch-dsl (v0.1.4@d41039, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-dsl/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-dsl/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-dsl/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-dsl/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-dsl/test" />
+      </excluded>
+    </library>
     <library name="elasticsearch-dsl (v0.1.4@d41039, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9493,6 +9594,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch-extensions/test" />
       </excluded>
     </library>
+    <library name="elasticsearch-extensions (v0.0.22@d41039, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-extensions/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-extensions/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-extensions/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-extensions/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-extensions/test" />
+      </excluded>
+    </library>
     <library name="elasticsearch-extensions (v0.0.22@d41039, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9523,6 +9640,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch-transport/test" />
+      </excluded>
+    </library>
+    <library name="elasticsearch-transport (v2.0.2@d41039, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-transport/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-transport/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-transport/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-transport/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-transport/test" />
       </excluded>
     </library>
     <library name="elasticsearch-transport (v2.0.2@d41039, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9571,6 +9704,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/elasticsearch-ruby-cf369b744ee9/elasticsearch-watcher/test" />
+      </excluded>
+    </library>
+    <library name="elasticsearch-watcher (v0.0.1@d41039, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-watcher/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-watcher/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-watcher/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-watcher/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/elasticsearch-ruby-d4103987be52/elasticsearch-watcher/test" />
       </excluded>
     </library>
     <library name="elasticsearch-watcher (v0.0.1@d41039, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9873,6 +10022,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/faraday_middleware-0.14.0/lib" />
       </SOURCES>
+    </library>
+    <library name="feed-client (v0.2.2@9bbfbb, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/feed-client-ruby-9bbfbbee869a/spec" />
+      </excluded>
     </library>
     <library name="feed-client (v0.2.2@9bbfbb, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -11459,6 +11630,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/kraken-client-ruby-10fb6825aaa6/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/kraken-client-ruby-10fb6825aaa6/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/kraken-client-ruby-10fb6825aaa6/.circleci" />
+      </excluded>
+    </library>
+    <library name="kraken-client (v0.9.1@9889b2, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kraken-client-ruby-9889b2ea876d/.circleci" />
       </excluded>
     </library>
     <library name="kraken-client (v0.9.1@9889b2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -13981,29 +14177,54 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
+    <library name="rake (v10.5.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </excluded>
+    </library>
     <library name="rake (v10.5.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
     <library name="rake (v12.0.0, Remote: ruby-2.4.1-p111) [gem]" type="rubylib">
@@ -14168,6 +14389,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/rake_helpers-c596810e765c/.git" />
+      </excluded>
+    </library>
+    <library name="rake_helpers (v0.2.6@610a9d, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/rake_helpers-610a9d0b7530/.circleci" />
       </excluded>
     </library>
     <library name="rake_helpers (v0.2.6@610a9d, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -15854,6 +16094,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-c87c8b3fee14/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-c87c8b3fee14/spec" />
+      </excluded>
+    </library>
+    <library name="stream (v3.4.1@4aa76c, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/stream-ruby-4aa76ca21da8/spec" />
       </excluded>
     </library>
     <library name="stream (v3.4.1@4aa76c, RVM: ruby-2.5.1) [gem]" type="rubylib">
