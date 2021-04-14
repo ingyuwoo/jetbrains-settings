@@ -11577,6 +11577,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jwt-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="kitchen-docker (v2.7.1.pre@660df6, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/bundler/gems/kitchen-docker-660df6515a9d/test" />
+      </excluded>
+    </library>
     <library name="kitchen-docker (v2.7.1.pre@660df6, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13969,6 +13988,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.2/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.2/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.0.3, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.0.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
       </excluded>
     </library>
     <library name="public_suffix (v4.0.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
