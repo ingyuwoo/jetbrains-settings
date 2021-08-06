@@ -10629,6 +10629,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/rake_helpers-610a9d0b7530/.circleci" />
       </excluded>
     </library>
+    <library name="rake_helpers (v0.2.7@5816bb, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/rake_helpers-5816bb2f1754/.circleci" />
+      </excluded>
+    </library>
     <library name="rb-fsevent (v0.10.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11971,6 +11990,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-64c94e459312/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-64c94e459312/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/stream-ruby-64c94e459312/.circleci" />
+      </excluded>
+    </library>
+    <library name="stream (v4.9.0@1787ff, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/stream-ruby-1787fff3ef12/.circleci" />
       </excluded>
     </library>
     <library name="stream (v4.9.0@1787ff, RVM: ruby-2.5.1) [gem]" type="rubylib">
