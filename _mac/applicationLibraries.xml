@@ -5165,6 +5165,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/aws-sigv4-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="backports (v3.21.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/backports-3.21.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/backports-3.21.0/lib" />
+      </SOURCES>
+    </library>
     <library name="backports (v3.7.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10412,6 +10423,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-protection-1.5.5/spec" />
       </excluded>
     </library>
+    <library name="rack-protection (v2.0.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-protection-2.0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-protection-2.0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11849,20 +11871,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-1.4.8/examples" />
       </excluded>
     </library>
-    <library name="sinatra (v2.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
+    <library name="sinatra (v2.0.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.0.8.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.0.8.1/examples" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.0.8.1/examples" />
       </excluded>
     </library>
     <library name="sinatra-contrib (v1.4.7, RVM: ruby-2.4.1) [gem]" type="rubylib">
@@ -11880,6 +11902,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-contrib-1.4.7/spec" />
       </excluded>
+    </library>
+    <library name="sinatra-contrib (v2.0.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-contrib-2.0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-contrib-2.0.8.1/lib" />
+      </SOURCES>
     </library>
     <library name="sinatra-contrib (v2.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
