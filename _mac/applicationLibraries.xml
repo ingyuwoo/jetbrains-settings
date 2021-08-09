@@ -11887,6 +11887,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.0.8.1/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v2.1.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sinatra-2.1.0/examples" />
+      </excluded>
+    </library>
     <library name="sinatra-contrib (v1.4.7, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
