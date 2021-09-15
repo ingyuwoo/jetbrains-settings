@@ -3,6 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.mdx</mask>
+    <mask>*.rb*</mask>
+    <mask>*.tsx*</mask>
+    <mask>*.t*</mask>
     <mask>*.rb</mask>
   </component>
 </application>
