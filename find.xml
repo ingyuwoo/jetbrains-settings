@@ -8,5 +8,6 @@
     <mask>*.tsx*</mask>
     <mask>*.t*</mask>
     <mask>*.rb</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
