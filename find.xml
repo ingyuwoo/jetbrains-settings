@@ -3,24 +3,29 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.t*" />
     <mask>*.rb*</mask>
     <mask>*.tsx*</mask>
-    <mask>*.rb</mask>
     <mask>*.mdx</mask>
     <mask>*.tsx</mask>
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
-    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.t*</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.ru</mask>
+    <mask>*.thor</mask>
+    <mask>*.jbuilder</mask>
+    <mask>*.gemspec</mask>
+    <mask>*.rake</mask>
+    <mask>*.rbw</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
