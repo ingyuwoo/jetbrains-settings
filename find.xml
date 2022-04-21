@@ -15,6 +15,12 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.sc*</mask>
+    <mask>*.scss*</mask>
+    <mask>*.tsx</mask>
+    <mask>*.t*</mask>
+    <mask>*.scss</mask>
+    <mask>*.ts*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -25,11 +31,5 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
-    <mask>*.sc*</mask>
-    <mask>*.scss*</mask>
-    <mask>*.tsx</mask>
-    <mask>*.t*</mask>
-    <mask>*.scss</mask>
-    <mask>*.ts*</mask>
   </component>
 </application>
