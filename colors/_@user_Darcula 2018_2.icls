@@ -3,28 +3,28 @@
     <property name="created">2020-10-30T21:58:31</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2022-04-11T12:03:43</property>
+    <property name="modified">2022-04-14T13:59:50</property>
     <property name="originalScheme">Darcula 2018.2</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3a3a2c" />
+        <option name="BACKGROUND" value="424347" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="313a31" />
+        <option name="BACKGROUND" value="404745" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3a313a" />
+        <option name="BACKGROUND" value="464843" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2e3939" />
+        <option name="BACKGROUND" value="4b4541" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
