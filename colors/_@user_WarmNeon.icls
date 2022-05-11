@@ -3,7 +3,7 @@
     <property name="created">2020-10-27T23:25:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2022-05-09T08:50:41</property>
+    <property name="modified">2022-05-11T09:41:31</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -567,22 +567,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="545559" />
+        <option name="BACKGROUND" value="4d4d40" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="515957" />
+        <option name="BACKGROUND" value="444d44" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="585a55" />
+        <option name="BACKGROUND" value="4d444d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="5c5753" />
+        <option name="BACKGROUND" value="414c4c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -729,7 +729,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="JS.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="d14c42" />
