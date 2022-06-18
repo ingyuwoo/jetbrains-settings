@@ -32,8 +32,8 @@
     <mask>*.scss*</mask>
     <mask>*.env*</mask>
     <mask>*.ts*</mask>
+    <mask>*.tsx</mask>
     <mask>*.mdx</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
   </component>
 </application>
