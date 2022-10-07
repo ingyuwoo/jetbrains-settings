@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts*" />
-    <mask>*.rb*</mask>
+    <option name="FILE_MASK" value="*.css*" />
     <mask>*.tsx*</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
@@ -34,5 +33,6 @@
     <mask>*.ts</mask>
     <mask>*.rb</mask>
     <mask>*.ts*</mask>
+    <mask>*.css*</mask>
   </component>
 </application>
