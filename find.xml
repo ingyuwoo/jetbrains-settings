@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*s" />
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
@@ -28,10 +29,10 @@
     <mask>*.*s*</mask>
     <mask>*.json</mask>
     <mask>*.*j*</mask>
-    <mask>*.*s</mask>
     <mask>*.*sx</mask>
     <mask>*.*ss</mask>
     <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.*s</mask>
   </component>
 </application>
