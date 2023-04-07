@@ -1,0 +1,6 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="bigFilesLineThreshold" value="3000" />
+    <option name="enabledForReadOnlyFiles" value="true" />
+  </component>
+</application>

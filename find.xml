@@ -3,16 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.rb*</mask>
-    <mask>*.tsx*</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.ng</mask>
-    <mask>*.htm</mask>
-    <mask>*.sht</mask>
-    <mask>*.ats</mask>
-    <mask>*.cjs</mask>
-    <mask>*.js</mask>
     <mask>*.sc*</mask>
     <mask>*.t*</mask>
     <mask>*.mdx*</mask>
@@ -27,11 +17,21 @@
     <mask>*.rbw</mask>
     <mask>*.scss*</mask>
     <mask>*.env*</mask>
-    <mask>*.tsx</mask>
     <mask>*.mdx</mask>
-    <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.rb</mask>
     <mask>*.ts*</mask>
+    <mask>*.css*</mask>
+    <mask>*.ts</mask>
+    <mask>*.*s*</mask>
+    <mask>*.json</mask>
+    <mask>*.*j*</mask>
+    <mask>*.*sx</mask>
+    <mask>*.*s</mask>
+    <mask>*.*x</mask>
+    <mask>*.*ss</mask>
+    <mask>*.*env</mask>
+    <mask>*.local</mask>
+    <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
