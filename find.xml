@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.svg" />
     <mask>*.sc*</mask>
     <mask>*.t*</mask>
     <mask>*.mdx*</mask>
@@ -31,8 +32,8 @@
     <mask>*.*ss</mask>
     <mask>*.*env</mask>
     <mask>*.local</mask>
-    <mask>*.svg</mask>
     <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.svg</mask>
   </component>
 </application>
