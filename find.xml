@@ -34,5 +34,6 @@
     <mask>*.tsx</mask>
     <mask>*.svg</mask>
     <mask>*.scss</mask>
+    <mask>*page.ts</mask>
   </component>
 </application>
