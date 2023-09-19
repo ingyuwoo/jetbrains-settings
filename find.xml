@@ -35,5 +35,6 @@
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*.scss</mask>
+    <mask>*</mask>
   </component>
 </application>
