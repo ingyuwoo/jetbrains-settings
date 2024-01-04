@@ -1,7 +1,14 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift meta 8" />
     <keyboard-shortcut first-keystroke="shift meta asterisk" />
+  </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt g" />
   </action>
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
