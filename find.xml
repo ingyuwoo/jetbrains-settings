@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".env*" />
     <mask>*.sc*</mask>
     <mask>*.t*</mask>
     <mask>*.mdx*</mask>
@@ -36,5 +37,7 @@
     <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*.ts</mask>
+    <mask>*.env</mask>
+    <mask>.env*</mask>
   </component>
 </application>
