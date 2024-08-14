@@ -21,7 +21,6 @@
     <mask>*.rb</mask>
     <mask>*.css*</mask>
     <mask>*.*s*</mask>
-    <mask>*.json</mask>
     <mask>*.*j*</mask>
     <mask>*.*sx</mask>
     <mask>*.*s</mask>
@@ -39,5 +38,6 @@
     <mask>*</mask>
     <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.json</mask>
   </component>
 </application>
